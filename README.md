@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔁 MasteryLoop AI
+# 🔁 Skill-gainner AI
 
 ### Concept-level adaptive learning, running entirely in your browser
 
